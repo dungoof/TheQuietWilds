@@ -1,2 +1,3 @@
-# TheQuietWilds
-Vanilla+ Skyrim modpack with Simonrim. Stable, lightweight, and immersive.
+<p align="center">
+  <img src="media/banner.png" alt="The Quiet Wilds Banner">
+</p>
